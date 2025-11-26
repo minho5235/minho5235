@@ -39,3 +39,6 @@
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=minho5235&theme=radical&no-frame=true&margin-w=15&margin-h=15" />
 </div>
+
+깃허브 연습
+###https://github.com/minho5235/mbtigui
