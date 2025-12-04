@@ -5,13 +5,6 @@
   </a>
 </h1>
 
-<div align="center">
-  <h3>🚀 About Me</h3>
-  <p>안녕하세요! 문제를 해결하는 개발자를 꿈꾸는 4학년 학부생입니다.<br>
-  데이터 기반의 백엔드 시스템과 AI 서비스에 관심이 많습니다.</p>
-</div>
-
----
 
 <h3 align="center">🛠 Tech Stack</h3>
 <div align="center">
@@ -40,5 +33,3 @@
   <img src="https://github-profile-trophy.vercel.app/?username=minho5235&theme=radical&no-frame=true&margin-w=15&margin-h=15" />
 </div>
 
-깃허브 연습
-###https://github.com/minho5235/mbtigui
