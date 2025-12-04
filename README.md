@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Welcome%20to%20My%20GitHub&fontSize=70)
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+World!+👋;Backend+Developer+(Python,+FastAPI);Nice+to+meet+you!&center=true&width=500&height=50" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+World!+👋;Nice+to+meet+you!&center=true&width=500&height=50" alt="Typing SVG" />
   </a>
 </h1>
 
