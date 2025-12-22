@@ -31,10 +31,6 @@
 **기술 스택 (Tech Stack)**
 * `Python`, `Selenium`, `Google Gemini API`, `Edge-TTS`, `MoviePy`
 
-**성과 및 배운 점**
-* 비정형 데이터(뉴스 텍스트)를 영상이라는 정형 콘텐츠로 변환하는 파이프라인 설계 경험
-* API 에러 처리 및 비동기 처리를 통한 안정성 확보
-
 [👉 GitHub Repository 바로가기](https://github.com/minho5235/shorts_ai)
 
 ## 📫 Contact
