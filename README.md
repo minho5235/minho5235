@@ -37,12 +37,5 @@
 
 [👉 GitHub Repository 바로가기](https://github.com/minho5235/shorts_ai)
 
-
-
-## 📝 Latest Blog Posts & Activity
-![Velog's GitHub stats](https://github-readme-stats.vercel.app/api?username=minho5235&show_icons=true&theme=radical)
-
----
-
 ## 📫 Contact
 * Email: hanmh2000@naver.com
